@@ -1,0 +1,10 @@
+div {
+    border: thin solid black;
+    margin-left: 4cm;
+    margin-right: 10cm;
+    background-color: rgb(240, 236, 230);
+}
+h3 {
+    background-color: rgb(240, 200, 140);
+    font-style: Impact;
+}
